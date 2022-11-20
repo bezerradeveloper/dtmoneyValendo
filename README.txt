@@ -6,3 +6,6 @@ https://miragejs.com/
 Bibliotecas
 Axios
 React-modal
+
+polished //cores
+

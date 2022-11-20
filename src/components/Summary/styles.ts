@@ -11,12 +11,14 @@ export const Container = styled.div`
         padding: 1.5rem 2rem;
         border-radius: 0.25rem;
         color: var(--text-title);
+
+        &.highlightbackground {
+            background: var(--green);
+            color: #fff;
+        }
     }
 
-    &.highlightbackground {
-        background: var(--green);
-        color: #fff;
-    }
+    
 
     header {
         display: flex;
